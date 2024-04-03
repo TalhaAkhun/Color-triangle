@@ -1,0 +1,30 @@
+.triangle-container {
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+.triangle,
+.inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.triangle {
+  width: 0;
+  height: 0;
+  padding-top: 155px;
+  margin-left: 150px;
+  border-left: 60px solid transparent;
+  border-right: 60px solid transparent;
+  border-bottom: 120px solid rgb(40, 92, 248);
+}
+
+.inner {
+  top: 18px;
+  left: 15px;
+  border-left: 45px solid transparent;
+  border-right: 45px solid transparent;
+  border-bottom: 90px solid rgb(6, 188, 2);
+}
