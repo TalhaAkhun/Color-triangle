@@ -1,3 +1,4 @@
 # Color-triangle
 color shape game
-Creating different shapes like triangle and circles to learn flex behaviour.
+Creating different shapes like triangles and circles to learn flex behavior.
+Using flexbox
