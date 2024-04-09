@@ -1,6 +1,6 @@
 # Color Triangle
 
-This project is a color shape game that focuses on creating different shapes like triangles and circles using Flexbox. It's designed to help you learn and understand the behavior of flexbox in CSS.
+This project is a color shape game that focuses on creating different shapes like triangles and circles using Flexbox. It's designed to help you learn and understand the behavior of `Flexbox` in CSS.
 
 Overview
 In this game, you'll be working with CSS flexbox properties to create colorful shapes, primarily triangles. The project emphasizes the following concepts:
