@@ -35,3 +35,11 @@ Acknowledgments
 This project is inspired by the desire to teach and learn flexbox concepts through practical examples and interactive games. Special thanks to the developers and resources that contribute to the understanding of modern web development techniques.
 
 Feel free to customize and expand upon this project as you explore more advanced CSS and frontend development concepts!
+
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+# Contact
+For any inquiries or feedback, please contact Your Name.
+
+Feel free to modify and expand upon this README as needed to provide more specific details about your project structure, implementation, and usage instructions.
