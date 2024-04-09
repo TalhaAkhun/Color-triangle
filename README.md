@@ -30,8 +30,8 @@ Learning Objectives
 Understand how flexbox works in CSS.
 Practice using flexbox properties to create layout designs.
 Experiment with color and style in web development projects.
-Gain familiarity with responsive design techniques using flexbox.
-Acknowledgments
+Gain familiarity with responsive design techniques using Flexbox.
+# Acknowledgments
 This project is inspired by the desire to teach and learn flexbox concepts through practical examples and interactive games. Special thanks to the developers and resources that contribute to the understanding of modern web development techniques.
 
 Feel free to customize and expand upon this project as you explore more advanced CSS and frontend development concepts!
