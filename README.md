@@ -5,7 +5,7 @@ This project is a color shape game that focuses on creating different shapes lik
 Overview
 In this game, you'll be working with CSS flexbox properties to create colorful shapes, primarily triangles. The project emphasizes the following concepts:
 
-Utilizing flexbox to position and style shapes.
+# Utilizing flexbox to position and style shapes.
 Understanding flex container and flex item properties.
 Creating responsive layouts using flexbox.
 Applying color and style to shapes dynamically.
